@@ -5,7 +5,7 @@ One more, finally. Or not? :)
 Now:
 
 ```
-$ some
+some
 ```
 
 Look what she said:
@@ -19,7 +19,7 @@ And now this:
 - One
 - Two
 - Three
-
+- four
 
 #### As well
 
@@ -31,10 +31,8 @@ And now this:
 
 More?
 
-
 Can we now have `the build`?
 
 NOW!
-
 
 Not gonna work, is it?
