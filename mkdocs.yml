@@ -1,7 +1,6 @@
 site_name: Test docs
 site_description: "A docs test"
 site_author: "Michael Hausenblas"
-CUSTOM_DOMAIN: "containers101.github.io"
 docs_dir: docs/
 repo_name: "mhausenblas/mkdocs-template"
 repo_url: "https://github.com/mhausenblas/mkdocs-template"
