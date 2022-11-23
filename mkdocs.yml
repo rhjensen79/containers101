@@ -1,10 +1,10 @@
-site_name: Test docs
-site_description: "A docs test"
-site_author: "Michael Hausenblas"
+site_name: Containers 101 Manual
+site_description: "Lears the basics around Containers"
+site_author: "Robert Jensen"
 docs_dir: docs/
-repo_name: "mhausenblas/mkdocs-template"
-repo_url: "https://github.com/mhausenblas/mkdocs-template"
+repo_name: "rhjensen79/containers101"
+repo_url: "https://github.com/rhjensen79/containers101"
 nav:
   - Home: index.md
 theme:
-  name: "material"
+  name: "readthedocs"
