@@ -8,3 +8,8 @@ nav:
   - Home: index.md
 theme:
   name: "mkdocs"
+
+
+nav:
+    - 'index.md'
+    - 'docker.md'
