@@ -7,4 +7,4 @@ repo_url: "https://github.com/rhjensen79/containers101"
 nav:
   - Home: index.md
 theme:
-  name: "readthedocs"
+  name: "mkdocs"
