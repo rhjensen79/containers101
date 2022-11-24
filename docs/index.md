@@ -22,7 +22,7 @@ You can keep the checkmark in "Copy the master branch only" since that is the on
 - Click the green "Code" button, and select the "Codespaces" tab, and click "Create Codespace on master"
 ![create_codespace](img/create_codespace.png)
 
-If you have vscode installed, it might ask you "Do you want to allow this page to open “Visual Studio Code”?". You you want to use your local vscode client, then just say allow.
+If you have vscode installed, it might ask you "Do you want to allow this page to open “Visual Studio Code”?". If you want to use your local vscode client, then just say allow.
 
 After some time, your browser or vscode (depending on your choice) will open, with an enviroment, with all the files, ready for you to use.
 
