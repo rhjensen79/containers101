@@ -1,15 +1,11 @@
 site_name: Containers 101 Manual
-site_description: "Lears the basics around Containers"
+site_description: "Learn the basics around Containers"
 site_author: "Robert Jensen"
 docs_dir: docs/
 repo_name: "rhjensen79/containers101"
 repo_url: "https://github.com/rhjensen79/containers101"
 nav:
   - Home: index.md
+  - Docker: docker.md
 theme:
-  name: "mkdocs"
-
-
-nav:
-    - 'index.md'
-    - 'docker.md'
+  name: readthedocs
