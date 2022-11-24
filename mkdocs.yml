@@ -5,7 +5,14 @@ docs_dir: docs/
 repo_name: "rhjensen79/containers101"
 repo_url: "https://github.com/rhjensen79/containers101"
 nav:
-  - Home: index.md
-  - Docker: docker.md
+  - Start: index.md
+  - What is a container: what_is_a_container.md
+  - Dockerfile: dockerfile.md
+  - Registrys: registrys.md
+  - Installing Docker: installing_docker.md
+  - Trubleshooting: trubleshooting.md
+  - Volumes: volumes.md
+  - Docker-Compose: docker_compose.md
+
 theme:
   name: readthedocs

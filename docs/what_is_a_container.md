@@ -1,22 +1,10 @@
-# Docker
+## What is a container
+
+## Docker
 
 ## Intro
 
-### What is a container
-
-### Installing Docker
-
 ## First Container
-
-## Dockerfile
-
-## Registrys
-
-## Docker-Compose
-
-## Trubleshooting
-
-## Volumes
 
 ## Kubernetes
 

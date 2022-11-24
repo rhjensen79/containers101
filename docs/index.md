@@ -1,6 +1,12 @@
 # Start
 
+## Welcome
+
 This is the manual, for the [Github repository Containers 101](https://github.com/rhjensen79/containers101)
+The purpose of this training, is to provide you with an enviroment, where you can learn the basics of containers.
+When you are done, you should have the skills, to go out and create your own containers, deploy them, and harwest some of the benefits, containers provide.
+
+Happy learning :-)
 
 ## Getting Started
 
