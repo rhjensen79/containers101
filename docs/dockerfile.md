@@ -59,8 +59,12 @@ docker build -t container:1 .
 ```
 
 Note the `.` in the end. It's important, and means that docker should look for a Dockerfile in the current directory, so don't forget it.
+The `-t` is to give the container a tag, so we can request it.
+A tag consist of a name:version 
+You can use `latest` to get the lastest version, but it's considered best practice, to always describe the version, so you are sure what you are getting, and you are able to revert to an earlier version, if that is needed.
+For now, our version is 1
 
-After a bit of time, you should see some output, that looked something like this.
+After a bit of time, you should see output, that looks something like this.
 
 ```bash
 => exporting to image                                   1.4s
@@ -69,11 +73,15 @@ After a bit of time, you should see some output, that looked something like this
 => => naming to docker.io/library/container:1           0.0s
 ```
 
-This means that you have not created a container, with the name container:1
+This means that you have now created a container, with the name container:1 on your local system.
 
-To run it, you simply have to type
+To run it, you simply you simply run 
 
 ```bash
 docker run container:1
 ```
 
+The container starts the Nginx process, and halts there, waiting for inputs.
+You can, stop it, using `ctrl + c`
+
+Some containers are build to keep running, like this webserver, and others are just running some commands, and exits after. Both is valid usecases.
