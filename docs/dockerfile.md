@@ -1,9 +1,13 @@
+## Intro
+
 What is a Dockerfile ? Docker.com describes it like this "A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image"
 So it's a file, with the name `Dockerfile` that contains the steps, on how to build the container. 
 
 Sounds simple right ? Well that's because it is. 
 
 Below is a sample of how a simple Dockerfile could look.
+
+## Dockerfile
 
 ```yaml
 FROM nginx:latest
